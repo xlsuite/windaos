@@ -1,4 +1,4 @@
-# windaos
+# winDAOs
 Real estate for the crowdfunding age.
 The intent of this project is to migrate the speculative nature of property investing away from the rental market to ensure affordable, stable, local housing. 
 Pairing the DAO with a REIT will enable both stock & crypto trading in our fund which buys & operates desirable locations in cities around the world.
